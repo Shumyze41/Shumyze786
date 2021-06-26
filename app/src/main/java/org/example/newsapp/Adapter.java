@@ -26,7 +26,6 @@ public class Adapter extends RecyclerView.Adapter<Adapter.ViewHolder> {
         this.context = context;
         this.modelClassArrayList = modelClassArrayList;
 
-
     }
 
     @NonNull
